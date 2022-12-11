@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Personal additions
+*main.parameters.local.json
+.local/*
+
 # User-specific files
 *.rsuser
 *.suo
